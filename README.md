@@ -156,10 +156,6 @@ Click **"Create Knowledgebase"** in the sidebar before asking questions.
 
 ---
 
-## 📸 Demo (Optional)
-
-*Add screenshots here*
-
 ---
 
 ## 🤝 Contributing
